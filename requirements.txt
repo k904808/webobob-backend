@@ -12,7 +12,7 @@ docutils==0.15.2
 idna==2.9
 jmespath==0.10.0
 mysqlclient==1.4.6
-Pillow==7.1.2
+Pillow==9.0.1
 pycparser==2.20
 PyJWT==1.7.1
 python-dateutil==2.8.1
